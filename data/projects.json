@@ -22,6 +22,6 @@
         "description": "ASRS (Automated Storage and Retrieval System) is one of the modern automation applications that is highly relevant in the industrial sector. The purpose of designing this ASRS is to replace manual methods in the storage and retrieval process, which are often time-consuming, inefficient, and prone to human error. In this project, a mini ASRS system was designed and developed based on a microcontroller and PLC, capable of performing automatic storage and retrieval of goods. The system consists of several main components, including a Haiwell PLC, which serves as the main controller for managing the system’s logic; 3-axis stepper motors, which function as actuators to move the system vertically and horizontally; and an RFID sensor, which is used for item identification.",
         "image": "images/project-3.png",
         "link": " "
-    },
+    }
    
 ]
