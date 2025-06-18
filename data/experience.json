@@ -4,6 +4,6 @@
 	"logo":"images/logo-rii.png",
         "position": "Student intern",
         "year": "2024",
-        "description": "As a student intern, I have learned about Programmable Logic Controllers (PLCs) and developed a mini project of an Automated Storage and Retrieval System (ASRS)."
+        "description": "As an intern, I learned the fundamentals of PLC programming and operation, and developed a mini Automated Storage and Retrieval System (ASRS) integrated with an RFID sensor for item identification input."
     }
 ]
