@@ -1,37 +1,36 @@
 {
     "name": "Zakiyyah Nur Amiiroh - Student Electronic Engineering",
-    "description": "Dedicated and dynamic Computer Engineer with a passion for teaching and sharing knowledge. Possessing extensive experience in both industry and academia, with a solid foundation in computer engineering principles and technologies. Proven track record of delivering engaging lectures and fostering an interactive learning environment conducive to student success. Adept at integrating real-world examples and practical applications into curriculum to enhance student understanding. Committed to staying abreast of emerging trends in computer engineering and incorporating them into instructional materials. Seeking to leverage expertise in computer engineering and passion for education to inspire and empower the next generation of engineers.",
-    "profileImage": "images/profile.jpg",
+    "description": "I am a student at Semarang State Polytechnic, majoring in Electrical Engineering and currently pursuing a Diploma III program in Electronics Engineering. I have skills in microcontroller programming, electronic circuit design, and PLC operation. I am able to work independently as well as in a team, disciplined, highly motivated to learn, and always ready to contribute actively in every given opportunity.",
+    "profileImage": "images/foto profile.png",
     "email": "zakiyyahnurr@gmail.com",
     "phone": "+62 (858) 777-40148",
     "socialMedia": [
         {
             "platform": "LinkedIn",
-            "url": "https://linkedin.com/in/aminuddin-rizal128"
+            "url": "www.linkedin.com/in/zakiyyahnur"
         },
         {
             "platform": "GitHub",
-            "url": "https://github.com/rizalhalim9"
+            "url": "https://github.com/zakiyyahnur"
         },
         {
-            "platform": "Twitter",
-            "url": "https://twitter.com/redpandalin"
+            "platform": "instagram",
+            "url": "https://instagram.com/zakiyyahnurr"
         }
     ],
     "cv": {
 			"text": "Download CV",
-			"file": "docs/cv.pdf",
+			"file": "docs/cv-zakiyyah.pdf",
 			"icon": "fas fa-file-pdf"
 	},
     "skills": [
-        {"name": "Biomedical Engineering", "icon": "fas fa-heart-pulse", "level": 90},
-        {"name": "Front-end IC Design", "icon": "fas fa-microchip", "level": 70},
-        {"name": "Internet of Things", "icon": "fas fa-wifi", "level": 90},
-        {"name": "Hardware Design", "icon": "fas fa-desktop", "level": 90},
-	{"name": "Hardware Programming", "icon": "fas fa-c", "level": 90},
-        {"name": "Web Programming", "icon": "fab fa-js", "level": 85},
-	{"name": "Project Management", "icon": "fas fa-list-check", "level": 95},
-	{"name": "Academic Writing", "icon": "fas fa-pen", "level": 90},
-	{"name": "Foreign Languages", "icon": "fas fa-language", "level": 85}
+        {"name": "Programmable Logic Control", "icon": "fas fa-heart-pulse", "level": 90},
+        {"name": "PCB Design", "icon": "fas fa-microchip", "level": 85},
+        {"name": "Internet of Things", "icon": "fas fa-wifi", "level": 75},
+        {"name": "Hardware Design", "icon": "fas fa-desktop", "level": 80},
+	{"name": "Hardware Programming", "icon": "fas fa-c", "level": 70},
+	{"name": "Project Management", "icon": "fas fa-list-check", "level": 85},
+	{"name": "Academic Writing", "icon": "fas fa-pen", "level": 80},
+	{"name": "Foreign Languages", "icon": "fas fa-language", "level": 75}
     ]
 }
