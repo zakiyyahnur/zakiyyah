@@ -3,7 +3,7 @@
         "title": "Design and Construction of an Outdoor Chili Plant Control Tool Based on the Internet of Things",
         "year": "2023, third semester",
         "role": "PCB Designer & Electronics Development Team Member",
-        "description": "In this project, we developed an automatic device to improve the quality of crop cultivation in lowland areas such as urban environments, with automated plant control using temperature and humidity sensors. The system development followed a prototype model approach, aiming to refine the design into a final system while saving time. In this case, the device was designed to detect soil temperature and moisture levels, which are regulated to remain within optimal ranges. The system responds automatically when there is a deficiency or excess in soil temperature or moisture, providing both a notification and an automatic watering action as output.",
+        "description": "In this project, we developed an automatic device to improve the quality of crop cultivation in lowland areas such as urban environments, with automated plant control using temperature and humidity sensors. The system development followed a prototype model approach, aiming to refine the design into a final system while saving time. In this case, the device was designed to detect soil temperature and moisture levels, which are regulated to remain within optimal ranges.",
         "image": "images/project-1.png",
         "link": " "
     },
