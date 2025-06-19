@@ -12,7 +12,7 @@
         "year": "2024, fourth semester",
         "role": "Hardware Designer & Electronics Development",
         "description": "The development of a blind spot detection system based on the Arduino Uno microcontroller is considered a suitable technology due to its simplicity and ease of implementation. This system functions by providing early warnings to the driver through an LCD display, LED indicators, and a buzzer, all connected to sensors and the microcontroller. The importance of such a system lies in its ability to help prevent road accidents by alerting the driver to potential hazards in the vehicle’s blind spot. The system utilizes serial communication and several supporting components, including the Ultrasonic SRF04 sensor for object or vehicle detection, infrared sensors for transmitting data from the SRF04, the Arduino Uno microcontroller for data processing, and output components such as LEDs, a buzzer, and a monitor to indicate the presence of objects in the blind spot area. These elements work together to provide information and alerts to the driver, aiming to reduce the risk of accidents caused by blind spots.",
-        "image": "images/project2.png",
+        "image": "images/project-2.png",
         "link": " "
     },
 	{
